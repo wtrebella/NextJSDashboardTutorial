@@ -1,4 +1,4 @@
-import { lusitana } from '@/app/ui/fonts';
+import { lusitana } from '@/app/ui/fonts/fonts';
 import {
   AtSymbolIcon,
   KeyIcon,
@@ -19,7 +19,7 @@ export default function LoginForm() {
             <label
               className="mb-3 mt-5 block text-xs font-medium text-gray-900"
               htmlFor="email"
-            >
+            >n
               Email
             </label>
             <div className="relative">
